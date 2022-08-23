@@ -1,0 +1,1 @@
+# scgateway-mixpanel-podspec
